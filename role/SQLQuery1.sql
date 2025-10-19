@@ -1,0 +1,1 @@
+UPDATE Pacientes SET role = 'admin' WHERE id_paciente = 1;

@@ -1,0 +1,2 @@
+ALTER TABLE Pacientes
+ADD role VARCHAR(50) NOT NULL DEFAULT 'paciente';

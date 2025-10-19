@@ -1,0 +1,11 @@
+POST http://127.0.0.1:8000/pacientes/signup
+Content-Type: application/json
+
+{
+    "nome": "Paciente Teste Final",
+    "cpf": "111.222.333-99", 
+    "data_nascimento": "1990-01-01",
+    "telefone": "999999999",
+    "email": "final_teste@clinica.com",
+    "senha": "senhaforte123" 
+}

@@ -1,0 +1,1 @@
+SELECT id_paciente, nome, role FROM Pacientes;
